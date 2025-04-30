@@ -23,7 +23,7 @@
 
 ![poster](./src/atten_graph.png)
 
-![poster](./src/attention_endcoder_decoder.png)
+![poster](./src/attenion_endcoder_decoder.png)
 
 References
 - [Paper : attention-networks-for-image-to-text](https://paperswithcode.com/paper/attention-networks-for-image-to-text)
