@@ -21,7 +21,7 @@
 - period 2025.04 - 2025.04
 - [colab script](files:///main/src/SIMPLE_HTR_colab_version.ipynb)
 
-<a id="raw-url1" href="https://raw.githubusercontent.com/cirbee/cirbee.github.io/master/src/SIMPLE_HTR_colab_version.ipynb", colab_script</a>
+<a id="raw-url1" href="https://raw.githubusercontent.com/cirbee/cirbee.github.io/master/src/SIMPLE_HTR_colab_version.ipynb"> colab_script</a>
 
 ![poster](./src/atten_graph.png)
 
@@ -38,7 +38,7 @@ loaded on [github](https://github.com/cirbee/SIMPLE)
 - rebuild 2025.04
 - [colab script](files:///main/src/Character-Based Handwritten_version2.ipynb)
 
-<a id="raw-url2" href="https://raw.githubusercontent.com/cirbee/cirbee.github.io/master/src/Character-Based Handwritten_version2.ipynb", colab_script</a>
+<a id="raw-url2" href="https://raw.githubusercontent.com/cirbee/cirbee.github.io/master/src/Character-Based Handwritten_version2.ipynb"> colab_script</a>
 
 ![poster](./src/CTCloss_graph.png)
 
