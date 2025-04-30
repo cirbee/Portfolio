@@ -19,9 +19,7 @@
 
 ### Character-Based Handwritten Text Transcription with Attention Networks
 - period 2025.04 - 2025.04
-- [colab script](files:///main/src/SIMPLE_HTR_colab_version.ipynb)
-
-<a id="raw-url1" href="https://raw.githubusercontent.com/cirbee/cirbee.github.io/master/src/SIMPLE_HTR_colab_version.ipynb"> colab_script</a>
+- [colab script]
 
 ![poster](./src/atten_graph.png)
 
@@ -36,9 +34,7 @@ loaded on [github](https://github.com/cirbee/SIMPLE)
 ### Best Practices for a Handwritten Text Recognition System
 - period 2024.06 - 2024.09
 - rebuild 2025.04
-- [colab script](files:///main/src/Character-Based Handwritten_version2.ipynb)
-
-<a id="raw-url2" href="https://raw.githubusercontent.com/cirbee/cirbee.github.io/master/src/Character-Based Handwritten_version2.ipynb"> colab_script</a>
+- [colab script]
 
 ![poster](./src/CTCloss_graph.png)
 
