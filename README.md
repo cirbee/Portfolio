@@ -17,9 +17,10 @@
 - [CKKS paper](https://eprint.iacr.org/2016/421.pdf)
 - [PIR paper](https://eprint.iacr.org/2017/1142)
 
-#### FHE 암호 모듈에 대한 기본적인 사항들을 배우고, 이를 바탕으로 연구주제를 정하여 기능 구현을 목표로한 세미나 입니다. 서울대 암호학 연구실에서 개발한 CKKS 모듈을 중점적으로 배우고, FHE 구현을 위한 기능들을 학습했습니다. 이를 바탕으로 FHE 연구주제를 정해, CKKS 기반한 기능 구현, 테스트 하였습니다. 
+FHE 암호 모듈에 대한 기본적인 사항들을 배우고, 이를 바탕으로 연구주제를 정하여 기능 구현을 목표로한 세미나 입니다. 서울대 암호학 연구실에서 개발한 CKKS 모듈을 중점적으로 배우고, FHE 구현을 위한 기능들을 학습했습니다. 이를 바탕으로 FHE 연구주제를 정해, CKKS 기반한 기능 구현, 테스트 하였습니다. 
 
-##### FHE(Fully Homeomorphic Encryption) 데이터들을 암호화한 상태에서 연산 가능한 암호모듈을 통칭합니다. 완전히 신뢰하지 못하는 server(cloud data server ...)에 데이터를 저장하고 참조할 때 데이터 유출없이 사용가능하게 하는 암호무듈 기술를 의미합니다. 기본적인 사칙연산과 relu function, regression 등을 지원하여, AI, deep learning 학습에 암호화된 데이터를 사용 가능합니다.  
+##### FHE(Fully Homeomorphic Encryption) 
+데이터들을 암호화한 상태에서 연산 가능한 암호모듈을 통칭합니다. 완전히 신뢰하지 못하는 server(cloud data server ...)에 데이터를 저장하고 참조할 때 데이터 유출없이 사용가능하게 하는 암호무듈 기술를 의미합니다. 기본적인 사칙연산과 relu function, regression 등을 지원하여, AI, deep learning 학습에 암호화된 데이터를 사용 가능합니다.  
 
 기본 기능 : KeySwitch, Rescaling, Bootstrap, FFT(Fast Fourier Transform), DTT(Discrete Fourier Transform), NTT(Number Theoretic Transform)
 바탕 지식: number theory, abstract algebra, cyclotomic field, homeomorphic
