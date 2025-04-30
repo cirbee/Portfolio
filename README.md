@@ -19,11 +19,11 @@
 
 ### Character-Based Handwritten Text Transcription with Attention Networks
 - period 2025.04 - 2025.04
-- [colab script](files://./src/SIMPLE_HTR_colab_version.ipynb)
+- [colab script](files:///main/src/SIMPLE_HTR_colab_version.ipynb)
 
 ![poster](./src/atten_graph.png)
 
-![poster](./src/attention_encoder_decoder.png)
+![poster](./src/attention_endcoder_decoder.png)
 
 References
 - [Paper : attention-networks-for-image-to-text](https://paperswithcode.com/paper/attention-networks-for-image-to-text)
@@ -34,7 +34,7 @@ loaded on [github](https://github.com/cirbee/SIMPLE)
 ### Best Practices for a Handwritten Text Recognition System
 - period 2024.06 - 2024.09
 - rebuild 2025.04
-- [colab script](files://./src/Character-Based Handwritten_version2.ipynb)
+- [colab script](files:///main/src/Character-Based Handwritten_version2.ipynb)
 
 
 ![poster](./src/CTCloss_graph.png)
