@@ -11,6 +11,42 @@
 - 씹어먹는 C++ (modoocode.com) 2021.09 - 2021.11
 - [풀스택] 유튜브 클론코딩 (nomadcoders.co) 2024.08 - 2024.10 
 
+## Certificates
+- CCNA (Cisco Systems) 2021.11
+- RHCSA (Redhat) 2022.07
+
+## Projects 
+
+### Character-Based Handwritten Text Transcription with Attention Networks
+- period 2025.04 - 2025.04
+- [colab script](files://./src/SIMPLE_HTR_colab_version.ipynb)
+
+![poster](./src/atten_graph.png)
+
+![poster](./src/attention_encoder_decoder.png)
+
+References
+- [Paper : attention-networks-for-image-to-text](https://paperswithcode.com/paper/attention-networks-for-image-to-text)
+- [Code](https://github.com/jvpoulos/Attention-OCR)
+
+loaded on [github](https://github.com/cirbee/SIMPLE) 
+
+### Best Practices for a Handwritten Text Recognition System
+- period 2024.06 - 2024.09
+- rebuild 2025.04
+- [colab script](files://./src/Character-Based Handwritten_version2.ipynb)
+
+
+![poster](./src/CTCloss_graph.png)
+
+References
+- [Paper : best-practices-for-a-handwritten-text](https://paperswithcode.com/paper/best-practices-for-a-handwritten-text)
+- [Paper : Are Multidimensional Recurrent Layers Really Necessary for Handwritten Text Recognition?](https://ieeexplore.ieee.org/document/8269951)
+- [Code](https://github.com/georgeretsi/HTR-best-practices/)
+
+loaded on [github](https://github.com/cirbee/SIMPLE)
+
+
 ### Seminar
 - FHE School 2025.01 - 2025.02
 - 서울대 암호학 연구실, 크립토랩 CKKS 모듈 연구 
@@ -28,30 +64,3 @@ FHE 암호 모듈에 대한 기본적인 사항들을 배우고, 이를 바탕�
 ##### 세부연구
 PIR(Private information retrieval) 연구주제로 잡았습니다. client 가 server에 어떤한 정보를 참조, 요청하는 것을 숨기는 기능을 의미합니다. 기존 CKKS 모듈의 경우 PIR 기능이 없었지만, 세부연구를 진행하면서 CKKS 모듈에 적용가능한 PIR 기본 기술(query compression)을 구현했습니다. 
 
-## Certificates
-- CCNA (Cisco Systems) 2021.11
-- RHCSA (Redhat) 2022.07
-
-## Projects 
-
-### Character-Based Handwritten Text Transcription with Attention Networks
-- period 2025.04 - 2025.04
-- [colab script](file:///)
-
-References
-- [Paper : attention-networks-for-image-to-text](https://paperswithcode.com/paper/attention-networks-for-image-to-text)
-- [Code](https://github.com/jvpoulos/Attention-OCR)
-
-loaded on [github](https://github.com/cirbee/SIMPLE) 
-
-### Best Practices for a Handwritten Text Recognition System
-- period 2024.06 - 2024.09
-- rebuild 2025.04
-- [colab script](file:///)
-
-References
-- [Paper : best-practices-for-a-handwritten-text](https://paperswithcode.com/paper/best-practices-for-a-handwritten-text)
-- [Paper : Are Multidimensional Recurrent Layers Really Necessary for Handwritten Text Recognition?](https://ieeexplore.ieee.org/document/8269951)
-- [Code](https://github.com/georgeretsi/HTR-best-practices/)
-
-loaded on [github](https://github.com/cirbee/SIMPLE)
