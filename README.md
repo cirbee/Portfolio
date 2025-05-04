@@ -40,6 +40,10 @@ loaded on [github](https://github.com/cirbee/SIMPLE)
 
 ![poster](./src/CTCloss_graph.png)
 
+Evaluations
+![poster](./src/SIMPLE_HTR_sample_decoding.png)
+![poster](./src/SIMPLE_HTR_cer_wer_score.png)
+
 References
 - [Paper : best-practices-for-a-handwritten-text](https://paperswithcode.com/paper/best-practices-for-a-handwritten-text)
 - [Paper : Are Multidimensional Recurrent Layers Really Necessary for Handwritten Text Recognition?](https://ieeexplore.ieee.org/document/8269951)
