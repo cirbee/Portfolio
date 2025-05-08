@@ -49,11 +49,11 @@
 path, numpy, PIL, pytorch, editdistance
 
 ##### 구현 내용 or 한 것들
-path : huggingface, data save & load, char_set 
-prepocessing : image resize, image padding, label padding, RandomAffine
-Architecture : attention based encoder-decoder model
-CER : editdistance [Code](https://github.com/georgeretsi/HTR-best-practices/) 참고했습니다.
-decoder : [Code](https://github.com/georgeretsi/HTR-best-practices/) 참고했습니다.
+- path : huggingface, data save & load, char_set 
+- prepocessing : image resize, image padding, label padding, RandomAffine
+- Architecture : attention based encoder-decoder model
+- CER : editdistance [Code](https://github.com/georgeretsi/HTR-best-practices/) 참고했습니다.
+- decoder : [Code](https://github.com/georgeretsi/HTR-best-practices/) 참고했습니다.
 
 References
 - [Paper : attention-networks-for-image-to-text](https://paperswithcode.com/paper/attention-networks-for-image-to-text)
@@ -84,12 +84,12 @@ OCR 분야 내 Multidimensional RNN 모델의 적용 필요성을 건의하면�
 path, numpy, PIL, pytorch, editdistance
 
 ##### 구현 내용 or 한 것들
-path : huggingface, data save & load, char_set 
-prepocessing : image resize, image padding, label padding, RandomAffine 
-Architecture : attention based encoder-decoder model
-CER, WER : editdistance [Code](https://github.com/georgeretsi/HTR-best-practices/) 참고했습니다.
-decoder : [Code](https://github.com/georgeretsi/HTR-best-practices/) 참고했습니다.
-Trainer : schedular multiStep 
+- path : huggingface, data save & load, char_set 
+- prepocessing : image resize, image padding, label padding, RandomAffine 
+- Architecture : attention based encoder-decoder model
+- CER, WER : editdistance [Code](https://github.com/georgeretsi/HTR-best-practices/) 참고했습니다.
+- decoder : [Code](https://github.com/georgeretsi/HTR-best-practices/) 참고했습니다.
+- Trainer : schedular multiStep 
 
 
 References
