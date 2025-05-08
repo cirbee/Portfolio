@@ -10,6 +10,7 @@
  - Encoder-Decoder model 구축해봤습니다.
  - C++ 의 기본적인 개념들(Concurrency, Multi Thread, OOP)을 알고 있습니다.
  - 백준 골드티어 문제들을 C++, Python을 이용해 풀수 있습니다.
+ - Express 를 이용해 웹사이트의 기본적인 기능들을 구현해봤습니다. ( 로그인(github 연동), 비디오 업로드, 검색, cookie, session )
 
 ## Education
 - M.S., Mathmatics | Yonsei University 2019.09 - 2021.08	 			        		
