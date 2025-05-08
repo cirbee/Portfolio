@@ -76,7 +76,7 @@ Evaluations
 #### 부가설명
  혼자해낸 OCR 논문 구현 Project 입니다. 가독성을 위해 colab을 이용했습니다. AI 관련 학습능력의 검증, 증명을 위해 해당 프로젝트를 진행했습니다. 
 
-OCR 분야 내 Multidimensional RNN 모델의 적용 필요성을 건의하면서, ResBLock 을 활용한 경량화 된 Architecture 를 제안한 논문입니다. 제안된 Architecture 의 경우, CNN-ResBlock layer를 통한 features 추출 후, 문자의 읽는 순서를 고려한 Column wise Max pooling 을 거쳐, LSTM layer 를 이용한 character 를 분류 모델입니다. train set에 대해, CTC-short layer 값을 거쳐 해당 결과를 오류 값 계산에 추가적으로 이용한다는 것이 독특한 부분입니다. (해당 layer 결과값의 경우 0.1 만큼 보정된 값으로 계산합니다.) 
+OCR 분야 내 Multidimensional RNN 모델의 적용 필요성을 건의하면서, ResBLock 을 활용한 경량화 된 Architecture 를 제안한 논문을 참고했습니다. CNN-ResBlock layer를 통한 features 추출 후, 문자의 읽는 순서를 고려한 Column wise Max pooling 을 거쳐, LSTM layer 를 이용한 character 를 분류 모델입니다. train set에 대해, CTC-short layer 값을 거쳐 해당 결과를 오류 값 계산에 추가적으로 이용한다는 것이 독특한 부분입니다. (해당 layer 결과값의 경우 0.1 만큼 보정된 값으로 계산합니다.) 
 
 2025.04, 파일 단위로 구성된 프로젝트를 colab 으로 다시 구성해 작성했습니다.  
 
@@ -120,5 +120,5 @@ PIR(Private information retrieval) 연구주제로 잡았습니다. client 가 s
 
 
 ##### 구현 내용 or 한 것들 (CKKS library )
-C++ 라이브러리, cmake 이용 
-PIR : Query Compression( Query expanding ) 
+- C++ 라이브러리, cmake 이용 
+- PIR : Query Compression( Query expanding ) 
