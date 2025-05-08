@@ -9,7 +9,7 @@
  - tensorflow to pytorch code script 를 경험했습니다.
  - Encoder-Decoder model 구축해봤습니다.
  - C++ 의 기본적인 개념들(Concurrency, Multi Thread, OOP)을 알고 있습니다.
-
+ - 백준 골드티어 문제들을 C++, Python을 이용해 풀수 있습니다.
 
 ## Education
 - M.S., Mathmatics | Yonsei University 2019.09 - 2021.08	 			        		
