@@ -60,7 +60,7 @@ References
 - [Paper : attention-networks-for-image-to-text](https://paperswithcode.com/paper/attention-networks-for-image-to-text)
 - [Code](https://github.com/jvpoulos/Attention-OCR)
 
-loaded on [github](https://github.com/cirbee/SIMPLE) 
+see [my implement](https://github.com/cirbee/cirbee.gihub.io/blob/10fcb837646c1eaab4f6a27e66440976fe9b4cd8/src/Character-Based%20Handwritten_version2.ipynb)
 
 ### Best Practices for a Handwritten Text Recognition System
 #### non-official implement!
@@ -98,7 +98,7 @@ References
 - [Paper : Are Multidimensional Recurrent Layers Really Necessary for Handwritten Text Recognition?](https://ieeexplore.ieee.org/document/8269951)
 - [Code](https://github.com/georgeretsi/HTR-best-practices/)
 
-loaded on [github](https://github.com/cirbee/SIMPLE)
+see [my implement](https://github.com/cirbee/cirbee.gihub.io/blob/10fcb837646c1eaab4f6a27e66440976fe9b4cd8/src/SIMPLE_HTR_colab_version.ipynb)
 
 
 ### Seminar
