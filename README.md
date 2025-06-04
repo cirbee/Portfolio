@@ -31,7 +31,7 @@
 ### Character-Based Handwritten Text Transcription with Attention Networks
 #### non-official implement!
 - period 2025.04 - 2025.04
-- [colab script](https://github.com/cirbee/cirbee.gihub.io/blob/10fcb837646c1eaab4f6a27e66440976fe9b4cd8/src/Character-Based%20Handwritten_version2.ipynb)
+- [colab script](https://github.com/cirbee/Portfolio/blob/75e5837a3b196f5bd67eebc042876f451e11f387/src/Character_Based_Handwritten.ipynb)
 
 ![poster](./src/atten_graph.png)
 
